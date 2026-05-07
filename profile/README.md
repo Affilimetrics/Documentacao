@@ -1,4 +1,4 @@
-# Afillimetrics
+# Affilimetrics
 ![Status](https://img.shields.io/badge/Status-Em%20Andamento-yellow?style=for-the-badge&logo=github)
 
 ## Sumario
@@ -11,8 +11,8 @@
 * [Design e Experiência](#design-e-experiência)
 
 ## Visão geral:
-O projeto **afillimetrics** se dá início em cima da necessidade encontrada no mercado de afiliados, em uma realidade onde investidores gastam muito tempo com busca de produtos, 
-divulgação e análise de dados, criamos a afillimetrics, um sistema onde o afiliado terá muito de seu trabalho simplificado. Reunimos tudo que um afiliado precisa no mesmo ambiente, 
+O projeto **Affilimetrics** se dá início em cima da necessidade encontrada no mercado de afiliados, em uma realidade onde investidores gastam muito tempo com busca de produtos, 
+divulgação e análise de dados, criamos a Afilimetrics, um sistema onde o afiliado terá muito de seu trabalho simplificado. Reunimos tudo que um afiliado precisa no mesmo ambiente, 
 além de implementar novas funções que não estão presentes no mercado.
 
 ## Problema:

@@ -1,4 +1,4 @@
-# Analise SMART  
+# Analise SMART  - Affilimetrics
 
 
 **Data:** 02/05/2026
@@ -27,11 +27,11 @@
 
 | Critério | Descrição |
 |----------|-----------|
-| **S** | Implementar dashboard principal com exibição de vendas, comissões, links ativos, taxa de conversão, metas financeiras e semáforo colorido. |
-| **M** | Dashboard deve carregar em até 3 segundos. Gráficos devem ser interativos. Semáforo deve mudar de cor com base na meta. |
-| **A** | Utilizar Gráficos interativos. |
-| **R** | Permitir que o afiliado visualize seu desempenho em tempo real, identifique produtos mais lucrativos e tome decisões estratégicas. |
-| **T** | Dashboard finalizado e testado em até 3 meses. |
+| **S** | Implementar dashboard principal com exibição de vendas(Diárias, Mensais e anuais), comissões, links ativos, taxa de conversão, metas financeiras e semáforo financeiro com cores padrão(verde, amarelo e vermelho), o sistema deve exibir os graficos de Vendas por Categória, Performace Por Marketplace E Grafico de ROI. |
+| **M** | Gráficos devem ser interativos. Semáforo deve mudar de cor com base na meta. |
+| **A** | O sistema deve utilizar gráficos interativos na Análise de Performace.|
+| **R** | Permitir que o afiliado visualize seu desempenho em tempo real, identifique produtos mais lucrativos e tome decisões estratégicas, enviando notificações e auxiliando o afliador para a melhor tomada de decisões. |
+| **T** | Dashboard finalizado e testado, iniciando em 20 junho, e finalizado até 15 de outubro. |
 
 **Descrição:**  
 Será implementada uma tela principal que reunirá todas as métricas importantes para o afiliado em um só lugar. O dashboard exibirá o total de vendas, o valor de comissões recebidas, a quantidade de links ativos, a taxa de conversão e um semáforo financeiro (verde, amarelo, vermelho) que indica se o afiliado está atingindo suas metas.
@@ -53,4 +53,5 @@ Será implementada uma tela principal que reunirá todas as métricas importante
 | **T** | Medidas implementadas até a data de lançamento do sistema. |
 
 **Descrição:**  
+Serão implementadas medidas técnicas para proteger os dados pessoais dos afiliadores e dos clientes que acessarem os links. Todas as senhas serão criptografadas antes de serem armazenadas no banco de dados. Todas as comunicações serão feitas exclusivamente via HTTPS com certificado SSL/TLS, garantindo conformidade com a LGPD.
 

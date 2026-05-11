@@ -17,6 +17,8 @@ nesse meio, precisamos adquirir a confiança do cliente, para que ele possa perd
 Portanto, teremos que suprir as fraquezas dos nossos concorrentes, fazendo com que clientes migrem para o nosso sistema e atraindo, 
 também, pessoas de fora do mercado.
 
+---
+
 ## Viabilidade ecônomica:
 
 | ITEM | DESCRIÇÃO | CUSTO ESTIMADO (R$) | BENEFÍCIO ESPERADO |
@@ -28,7 +30,7 @@ também, pessoas de fora do mercado.
 | **Manutenção** | Atualizações e suporte pós-implantação | 800,00 | Infraestrutura escalável, segurança e backups, monitoramento e logs. |
 | **Total de Custos** | | **1.150,00** | |
 
-## Análise custo-benefício:
+## Conclusão Viabilidade Ecônomica:
 
 Como custo inicial, focamos apenas no necessário, que seria a inclusão de domínio próprio, hospedagem e cursos para aprendizado.
 Com isso conseguimos um projeto estável, investindo apenas o nosso tempo com a mão de obra voluntária, e economicamente falando, os gastos seriam quase nulos.
@@ -42,6 +44,7 @@ Isso justifica o valor que foi estimado, pois com um valor simbólico de R$50,00
 E o mesmo se torna totalmente compreensível, já que nosso sistema juntamente a um afiliado disposto a analisar o mercado, 
 arrecadaria um ROI maior do que o valor cobrado pelos nossos serviços.
 
+---
 
 ## Viabilidade Técnica:
 
@@ -56,7 +59,7 @@ arrecadaria um ROI maior do que o valor cobrado pelos nossos serviços.
 | **Compatibilidade** | Suporte a dispositivos móveis e desktop | Sim | Testes planejados em múltiplas plataformas (apenas web). |
 | **Segurança** | Autenticação, criptografia (HTTPS/Hash) e 2FA (Authenticator). | Parcial | Equipe em aprendizado de protocolos padrão de segurança. |
 
-## Análise:
+## Conclusão da Viabilidade Técnica:
 
 Para criação do projeto, está totalmente definido quais linguagens serão utilizadas, e ciência de como as mesmas funcionam.
 Pórem, não é de total conhecimento do grupo, como desenvolver certos recursos em ferramentas específicas (implementação em Django, 
@@ -64,6 +67,7 @@ configuração de hospedagem em nuvem e protocolos de segurança do projeto).
 Pretendemos nesse primeiro momento entender completamente o que de fato será utilizado no desenvolvimento, desse modo, na fase de programação,
 teremos clareza no que foi estudado, evitando desperdicio de tempo com tecnologias que não serão implementadas.
 
+---
 
 ## Viabilidade Operacional:
 
@@ -77,8 +81,7 @@ teremos clareza no que foi estudado, evitando desperdicio de tempo com tecnologi
 | **Suporte e Manutenção** | Disponibilidade de suporte técnico. | Médio | Equipe interna em treinamento para suporte. |
 | **Impacto na Produtividade** | Redução de ambientes, aumento no ROI. | Alto | Redução de tempo em trocas de ambientes, e diminuição de perdas de clientes com remarketing. |
 
-
-## Análise: 
+## Conclusão da Viabilidade operacional: 
 
 Pretendemos criar um sistema para reunir e simplificar tudo que um afiliado precisa no mesmo ambiente, portanto, um afiliado, mesmo que iniciante, 
 não terá dificuldades para migrar para a nossa plataforma, e aos novos usuários será disponibilizado um treinamento simples para entender melhor termos técnicos do mercado. 
@@ -87,7 +90,21 @@ Desse modo, conseguimos criar nosso sistema por completo partindo do pensamento 
 Está sendo desenvolvida uma interface intuitiva e focada em gráficos, os mesmos que serão gerados a partir de metas do próprio cliente,
 desse modo ajudamos a visualização e o entendimento rápido do usuário baseado em seus objetivos.
 
-Entendemos que, por se tratar de um mercado financeiro, terá uma forte resistência à mudança de plataformas,
-uma vez que pessoas que já se beneficiam com esse mercado não encontrariam motivos para realizar tal mudança. 
-Nosso objetivo será despertar esperanças em pessoas que não estão satisfeitas com o mercado, de modo que, ao conquistar um pequeno público e entregar o resultado esperado, 
-se desencadeie uma mudança em massa para nosso sistema.
+---
+
+### Viabilidade Legal
+
+| ASPECTO LEGAL | DESCRIÇÃO | SITUAÇÃO ATUAL | OBSERVAÇÕES |
+| :---: | :---: | :---: | :---: |
+| **Proteção de Dados (LGPD)** | Conformidade com a Lei Geral de Proteção de Dados. | Parcial | Foco em transparência e acesso restrito aos dados financeiros. |
+| **Direitos Autorais** | Uso de imagens de terceiros. | Parcial | Cuidado com direitos de imagens. |
+| **Licenciamento de Software** | Ferramentas e bibliotecas utilizadas. | Sim | Uso de tecnologias open source (Django, Python, JavaScript e MySQL). |
+| **Normas do Setor** | Regulamentações de marketing e plataformas. | Parcial | Alinhamento com as diretrizes da CONAR e termos de uso das plataformas de afiliados. |
+| **Termos de Uso** | Contrato de serviços com usuário. | Sim | Definição de métodos e limites da plataforma e do suporte. |
+| **Segurança da Informação** | Implementação de autenticação e criptografia. | Sim | Uso de protocolos HTTPS, Hash de senhas e 2FA (Authenticator). |
+
+## Conclusão da Viabilidade Legal:
+
+O sistema depende de diversos dados sensíveis do usuário, acompanhado também de direitos de imagens por adicionar produtos de terceiros dentro da plataforma, para isso precisamos de diversos direitos de imagens 
+e d
+

@@ -61,7 +61,7 @@ arrecadaria um ROI maior do que o valor cobrado pelos nossos serviços.
 
 ## Conclusão da Viabilidade Técnica:
 
-Para criação do projeto, está totalmente definido quais linguagens serão utilizadas, e ciência de como as mesmas funcionam.
+Para criação do projeto, está totalmente definido quais ferramentas serão utilizadas, e ciência de como as mesmas funcionam.
 Pórem, não é de total conhecimento do grupo, como desenvolver certos recursos em ferramentas específicas (implementação em Django, 
 configuração de hospedagem em nuvem e protocolos de segurança do projeto).
 Pretendemos nesse primeiro momento entender completamente o que de fato será utilizado no desenvolvimento, desse modo, na fase de programação,
@@ -105,6 +105,8 @@ desse modo ajudamos a visualização e o entendimento rápido do usuário basead
 
 ## Conclusão da Viabilidade Legal:
 
-O sistema depende de diversos dados sensíveis do usuário, acompanhado também de direitos de imagens por adicionar produtos de terceiros dentro da plataforma, para isso precisamos de diversos direitos de imagens 
-e d
+O sistema depende de diversos dados sensíveis do usuário, e também envolve a exibição de produtos de terceiros dentro da plataforma, por isso tomamos o cuidado de informar detalhadamente os limites e intuito do sistema através dos termos de uso.
+Esclarecendo que não garantimos lucros, apenas fornecemos auxílio para que um afiliado utilize melhor seu tempo e entenda perfeitamente onde está sendo investido seu dinheiro.
+Irá conter também uso de modelos prontos feitos por designers qualificados para isso, pórem, apenas a estrutura visual será de responsabilidade da empresa, qualquer objeto editável ficará sob encargo do cliente.
+
 

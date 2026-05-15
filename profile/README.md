@@ -12,7 +12,7 @@
 
 ## Visão geral:
 O projeto **Affilimetrics** se dá início em cima da necessidade encontrada no mercado de afiliados, em uma realidade onde investidores gastam muito tempo com busca de produtos, 
-divulgação e análise de dados, criamos a Afilimetrics, um sistema onde o afiliado terá muito de seu trabalho simplificado. Reunimos tudo que um afiliado precisa no mesmo ambiente, 
+divulgação e análise de dados, criamos a Affilimetrics, um sistema onde o afiliado terá muito de seu trabalho simplificado. Reunimos tudo que um afiliado precisa no mesmo ambiente, 
 além de implementar novas funções que não estão presentes no mercado.
 
 ## Problema:

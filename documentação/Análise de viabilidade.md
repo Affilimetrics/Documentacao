@@ -92,7 +92,7 @@ desse modo ajudamos a visualização e o entendimento rápido do usuário basead
 
 ---
 
-### Viabilidade Legal
+## Viabilidade Legal
 
 | ASPECTO LEGAL | DESCRIÇÃO | SITUAÇÃO ATUAL | OBSERVAÇÕES |
 | :---: | :---: | :---: | :---: |
@@ -109,4 +109,7 @@ O sistema depende de diversos dados sensíveis do usuário, e também envolve a 
 Esclarecendo que não garantimos lucros, apenas fornecemos auxílio para que um afiliado utilize melhor seu tempo e entenda perfeitamente onde está sendo investido seu dinheiro.
 Irá conter também uso de modelos prontos feitos por designers qualificados para isso, pórem, apenas a estrutura visual será de responsabilidade da empresa, qualquer objeto editável ficará sob encargo do cliente.
 
+## Conclusão geral:
+Com base em todos os fatos apresentados, comprovamos que o affilimetrics é um projeto réntavel e autossustentável, apresentamos nosso diferencial com ferramentas exclusivas,
+baixo custo de desenvolvimento, seguimento de leis e tecnologias necessarias para desenvolvimento acéssiveis, dessa forma o projeto nós comprova que vale o investimento proposto, e a alta probabilidade de vingar no mercado.
 

@@ -3,7 +3,7 @@
 **Data:** 02/05/2026
 
 ## O que é o método SMART?
-
+a
 | Critério | Significado | Pergunta |
 |----------|-------------|----------|
 | **S** | Específico | O que de fato será feito? |
@@ -21,8 +21,8 @@
 | Critério | Descrição |
 |----------|-----------|
 | **S** | Implementar dashboard principal com exibição de vendas (diárias, mensais e anuais), comissões, links ativos, taxa de conversão, metas financeiras e semáforo financeiro com cores padrão (verde, amarelo e vermelho). O sistema deve exibir os gráficos de Vendas por Categoria, Performance por Marketplace e Gráfico de ROI e sistema automatizado de Remarketing. |
-| **M** | Gráficos devem ser interativos. Semáforo deve mudar de cor com base na meta. |
-| **A** | O sistema deve utilizar gráficos interativos na análise de performance. |
+| **M** | Gráficos devem ser interativos e deve ser exibido com informações condicentes, semaforo deve mudar de cor com base na meta, e envio de notificações para remaketing. |
+| **A** | Utilizar Django para criação de gráficos interativos, implementar a logisca de um Semafaro financeiro comparando no back vendais reais com a meta cadastrada e configurar sistema de notificação por remarketing. |
 | **R** | Permitir que o afiliado visualize seu desempenho em tempo real, identifique produtos mais lucrativos e tome decisões estratégicas, enviando notificações e auxiliando o afiliador para a melhor tomada de decisão. |
 | **T** | Dashboard finalizado e testado, iniciando em 20 de junho e finalizado até 15 de outubro. |
 
@@ -52,12 +52,11 @@ Serão implementadas medidas técnicas para proteger os dados pessoais dos afili
 
 | Critério | Descrição |
 |----------|-----------|
-| **S** |    |
+| **S** |  Desenvolver módulo completo de cadastro de novos usuários com nome, e-mail, senha, CPF e login com autenticação 2FA via Authenticator, incluindo bloqueio de acessos com credenciais inválidas e Recuperação de Senha.  |
 | **M** | 100% dos usuários devem conseguir se cadastrar e acessar o sistema. O sistema deve bloquear acessos com credenciais inválidas. |
 | **A** | O sistema deve conter front-end estruturado, Django no back-end, PostgreSQL no banco de dados, Django para hash de senhas e Rastreamento via Sever-Side-Tracking para gerenciamento de sessão. |
 | **R** | Garantir que apenas usuários autorizados acessem dados pessoais e financeiros, conforme exigido pela LGPD. |
 | **T** | Módulo finalizado e testado iniciando em 5 de junho, até 1 de outubro |
 
 **Descrição:**  
-
-
+Será desenvolvido um módulo completo para que os afiliados possam criar uma conta no sistema e acessá-la com segurança. O cadastro exigirá nome, e-mail, senha, CPF e Numero. O login será feito com e-mail ou numero e senha, com proteção contra múltiplas tentativas inválidas e 2FA Via Authenticator. O sistema utilizará Server-Side-Tracking para gerenciar sessões de forma segura.

@@ -1,6 +1,5 @@
 # Análise SMART - Affilimetrics
 
-**Data:** 02/05/2026
 
 ## O que é o método SMART?
 a
@@ -23,7 +22,7 @@ a
 | **S** | Implementar dashboard principal com exibição de vendas (diárias, mensais e anuais), comissões, links ativos, taxa de conversão, metas financeiras e semáforo financeiro com cores padrão (verde, amarelo e vermelho). O sistema deve exibir os gráficos de Vendas por Categoria, Performance por Marketplace e Gráfico de ROI e sistema automatizado de Remarketing. |
 | **M** | Gráficos devem ser interativos e deve ser exibido com informações condicentes, semaforo deve mudar de cor com base na meta, e envio de notificações para remaketing. |
 | **A** | Utilizar Django para criação de gráficos interativos, implementar a logisca de um Semafaro financeiro comparando no back vendais reais com a meta cadastrada e configurar sistema de notificação por remarketing. |
-| **R** | Permitir que o afiliado visualize seu desempenho em tempo real, identifique produtos mais lucrativos e tome decisões estratégicas, enviando notificações e auxiliando o afiliador para a melhor tomada de decisão. |
+| **R** | Permitir que o afiliado visualize seu desempenho em tempo real, identifique produtos mais lucrativos e tome decisões estratégicas, enviando notificações e auxiliando o afiliado para a melhor tomada de decisão. |
 | **T** | Dashboard finalizado e testado, iniciando em 20 de junho e finalizado até 15 de outubro. |
 
 **Descrição:**  
@@ -37,7 +36,7 @@ Será implementada uma tela principal que reunirá todas as métricas importante
 |----------|-----------|
 | **S** | O sistema deve implementar medidas de segurança para proteger dados pessoais dos afiliados e seus clientes garantindo conformidade com a LGPD, tais como, proteção utilizando Hash de Senhas, comunicações em HTTPS e 2FA via Authenticator. |
 | **M** | 100% das senhas devem ser armazenadas com segurança. 100% das comunicações devem usar HTTPS. O sistema deve permitir exportar e excluir dados do usuário. |
-| **A** | Utilizar ferramentas para proteção de senhas e HTTPS com certificado SSL/TLS. |
+| **A** | Utilizar ferramentas para proteção de senhas e HTTPS com certificado SSL/TLS e implementar Hash de Senhas utilizando Django e 2FA via authenticator. |
 | **R** | Evitar multas, proteger a imagem do sistema e garantir a confiança dos afiliados. |
 | **T** | Medidas implementadas até a data de lançamento do sistema. |
 
@@ -52,7 +51,7 @@ Serão implementadas medidas técnicas para proteger os dados pessoais dos afili
 
 | Critério | Descrição |
 |----------|-----------|
-| **S** |  Desenvolver módulo completo de cadastro de novos usuários com nome, e-mail, senha, CPF e login com autenticação 2FA via Authenticator, incluindo bloqueio de acessos com credenciais inválidas e Recuperação de Senha.  |
+| **S** |  Desenvolver módulo completo de cadastro de novos usuários com nome, e-mail, senha, CPF, numero e login com autenticação 2FA via Authenticator, incluindo bloqueio de acessos com credenciais inválidas e Recuperação de Senha.  |
 | **M** | 100% dos usuários devem conseguir se cadastrar e acessar o sistema. O sistema deve bloquear acessos com credenciais inválidas. |
 | **A** | O sistema deve conter front-end estruturado, Django no back-end, PostgreSQL no banco de dados, Django para hash de senhas e Rastreamento via Sever-Side-Tracking para gerenciamento de sessão. |
 | **R** | Garantir que apenas usuários autorizados acessem dados pessoais e financeiros, conforme exigido pela LGPD. |
@@ -60,3 +59,16 @@ Serão implementadas medidas técnicas para proteger os dados pessoais dos afili
 
 **Descrição:**  
 Será desenvolvido um módulo completo para que os afiliados possam criar uma conta no sistema e acessá-la com segurança. O cadastro exigirá nome, e-mail, senha, CPF e Numero. O login será feito com e-mail ou numero e senha, com proteção contra múltiplas tentativas inválidas e 2FA Via Authenticator. O sistema utilizará Server-Side-Tracking para gerenciar sessões de forma segura.
+
+---
+
+### Objetivo 2 – Cadastro e Rastreamento de Links
+
+| **S** | Desenvolver módulo para o afiliado cadastrar, editar e excluir links de produtos, com rastreamento de cliques e conversões. |
+| **M** | O sistema deve registrar 100% dos cliques, armazenar data/hora, IP e origem do clique. Deve gerar relatórios de cliques por período. |
+| **A** | Utilizar Server-Side-Tracking para evitar bloqueios de navegadores. Gerar links únicos com parâmetros automaticamentos. |
+| **R** | Fornecer dados precisos para cálculo de comissões e taxa de conversão (vendas / cliques). |
+| **T** | 1 de Outubro até 1 de novembro. |
+
+**Descrição:**
+Será desenvolvido um módulo completo para que o afiliado possa gerenciar seus links de produtos de forma centralizada. O sistema permitirá cadastrar, editar e excluir links, associando cada um a um produto, categoria ou marketplace específico. Cada link cadastrado receberá automaticamente um identificador único para rastreamento preciso. Sempre que um usuário final clicar no link, o sistema registrará a data/hora, o endereço de IP, o navegador (user-agent) e a origem do clique (referer). O rastreamento será feito via Server-Side-Tracking, processando os dados diretamente no servidor para evitar bloqueios por adblocks ou navegadores. O sistema também capturará conversões (vendas realizadas) via integração com API do produtor/plataforma de afiliados. Com base nos dados coletados, o sistema gerará relatórios gráficos de cliques por período (diário, semanal, mensal) e calculará automaticamente a taxa de conversão (vendas / cliques), fornecendo insumos precisos para o cálculo de comissões.

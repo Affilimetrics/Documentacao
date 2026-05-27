@@ -64,6 +64,8 @@ Será desenvolvido um módulo completo para que os afiliados possam criar uma co
 
 ### Objetivo 2 – Cadastro e Rastreamento de Links
 
+| Critério | Descrição |
+|----------|-----------|
 | **S** | Desenvolver módulo para o afiliado cadastrar, editar e excluir links de produtos, com rastreamento de cliques e conversões. |
 | **M** | O sistema deve registrar 100% dos cliques, armazenar data/hora, IP e origem do clique. Deve gerar relatórios de cliques por período. |
 | **A** | Utilizar Server-Side-Tracking para evitar bloqueios de navegadores. Gerar links únicos com parâmetros automaticamentos. |

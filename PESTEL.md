@@ -11,7 +11,7 @@ benefício para conseguir crescer cada vez mais o sistema.
 Dentre os citados, os que mais se destacam são o programa PIPE da FAPESP e editais da FINEP.
 
 ## E (econômico)
-* **Explosão do E-commerce:**
+* **Aumento do E-commerce:**
   
 A pandemia intensificou de forma drástica as compras on-line e, simultaneamente, o mercado de afiliados, 
 já que esses profissionais trabalham como os lojistas da internet.
@@ -30,3 +30,32 @@ Sendo ela uma das maiores plataformas de divulgação, esse reajuste impacta dir
 Considerando esse aumento e que essa elevação de custos se torna recorrente a cada ano, 
 implementamos em nossa plataforma o remarketing e o controle total de dados, 
 permitindo visualizar de forma rápida e intuitiva onde cada centavo está sendo investido.
+
+É de total ciência que esse aumento impacta a empresa tambem, pois afiliados estão preferindo cortar custos e realizar seu trabalho manualmente
+
+# S (sociais)
+
+* **Mudança na cultura dos trabalhos:**
+
+Cada vez mais pessoas estão migrando do trabalho presencial para o remoto, a flexibilidade de hórario e local de ofício, tem chamado cada vez mais a atenção
+dos brasileiros, e tende a aumentar progressivamente.
+Essa mudança faz com que jovens e adultos procurem uma fonte de renda remota, e encontre o mercado de afiliado.
+
+---
+* **Preconceito com o mercado:**
+
+Com o vasto crescimento que houve no mercado, se cresceu muito a desinformação sobre o mesmo, já que um dos principais motivos dessa expansão, foi a venda de cursos
+on-line, que se tratava de um esquema de pirâmide remoto. Isso enriqueceu diversas pessoas e manchou a reputação do mercado, tal ato que reflete até os dias atuais.
+
+Para enfrentar esse problema teremos um marketing certeiro, deixando claro que a plataforma se trata de produtos físicos, tentando erradicar
+qualquer produto que não tenha valor próprio.
+
+---
+* **Falta de dados de fácil interpretação:**
+
+No mercado atual, a falta de clareza se torna a principal dificuldade para um novo afiliado. Inúmeras plataformas utilizam diversos termos sem nenhuma breve explicação, ou tabelas gigantes e confusas que assustam o novo investidor. Tendo em vista que o perfil comum do afiliado não é de alguém formado em contabilidade ou da área de TI, não há necessidade de dados apresentados de forma tão complexa.
+
+O projeto atua diretamente na solução desse problema, transformando dados complexos em gráficos visuais e intuitivos, além de trazer uma breve explicação sobre as siglas. Dessa forma, desmistificamos a falsa ideia de que é necessário um alto conhecimento técnico para ser um afiliado.
+
+# T (teconólogicos)
+

@@ -59,3 +59,19 @@ O projeto atua diretamente na solução desse problema, transformando dados comp
 
 # T (teconólogicos)
 
+* **Rastreamento e segurança de dados:**
+
+Em julho de 2024 o google proibiu a coleta de cookies de terceiros sem a permissão do cliente, deixando a escolha com o úsuario, se queria ou não aceitar a exposição de seus dados. 
+Além de diversos navegadores como safari e firefox que já bloqueiam cookies de terceiros há anos. Considerando que uma das principais funções do sistema é a coleta e exibição dos dados,
+nós basear apenas nas coleta de cookies seria um problema, pois se tornou um cenário instável, uma vez que os clientes tem a escolha sobre a permissão dos cookies.
+
+Baseado nisso, e também na falta de êficiencia dos cookies quando o assunto é manter os dados, utilizaremos rastreamento via servidor. Dessa maneira iremos nós beneficiar da coleta precisa de dados trazendo uma segurança ao afiliado com as informações de suas póssiveis compradores.
+
+---
+* **Falta de integração de sistemas**
+
+Atualmente não há uma plataforma que unifique todas as telas que um afiliado precisa em um único ambiente. 
+A tendência das plataformas é ficar cada vez mais automatizadas e unificadas, portanto, essa necessidade de diversos 
+ambientes se torna um problema grave.
+
+A affilimetrics identificou essa ausência e pretende se aproveitar de tal falha, de modo que se torne a única plataforma necessária para um afiliado.

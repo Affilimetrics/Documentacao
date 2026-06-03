@@ -2,6 +2,10 @@
 
 ### REQUISITOS FUNCIONAIS E NÃO FUNCIONAIS
 
+## Oque é a Análise de Requisitos?
+
+É um estudo, onde os requisitos funcionais descrevem **o que** o sistema deve fazer (como cadastrar usuários, exibir vendas e gerar relatórios), enquanto os requisitos não funcionais definem **como** o sistema deve se comportar em termos de desempenho, segurança, usabilidade e disponibilidade (como carregar o dashboard em até 3 segundos ou criptografar senhas), sendo ambos essenciais para garantir que o software atenda às necessidades dos usuários e aos padrões de qualidade exigidos pelo mercado.
+
 ---
 
 ## 1. Visão Geral

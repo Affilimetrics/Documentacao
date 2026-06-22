@@ -57,7 +57,7 @@ No mercado atual, a falta de clareza se torna a principal dificuldade para um no
 
 O projeto atua diretamente na solução desse problema, transformando dados complexos em gráficos visuais e intuitivos, além de trazer uma breve explicação sobre as siglas. Dessa forma, desmistificamos a falsa ideia de que é necessário um alto conhecimento técnico para ser um afiliado.
 
-# T (teconólogicos)
+# T (tecnólogicos)
 
 * **Rastreamento e segurança de dados:**
 
@@ -73,5 +73,18 @@ Baseado nisso, e também na falta de êficiencia dos cookies quando o assunto é
 Atualmente não há uma plataforma que unifique todas as telas que um afiliado precisa em um único ambiente. 
 A tendência das plataformas é ficar cada vez mais automatizadas e unificadas, portanto, essa necessidade de diversos 
 ambientes se torna um problema grave.
+ 
+ a Affilimetrics identificou essa ausência e pretende se aproveitar de tal falha, de modo que se torne a única plataforma necessária para um afiliado.
 
-A affilimetrics identificou essa ausência e pretende se aproveitar de tal falha, de modo que se torne a única plataforma necessária para um afiliado.
+# L (legal)
+
+ * **Seguimento as diretrizes da LGPD (Lei Geral de Proteção de Dados)**
+ 
+A Affilimetrics utilizará de rastreamento, remarketing e centralização de métricas de venda, que são dados que possuem informações sensíveis do consumidor. A LGPD
+estabele regras rígidas e claras de como esses dados devem ser coletados, armazenados e tratados.
+
+O sistema precisa ser construído baseado nas diretrizes da lei, de modo que seja transparente ao consumidor quais dados serão coletados, e que o armazenamento de dados sensíveis seja criptografado de forma irreversível. 
+ 
+* **Conformidade com a Lei Brasileira de inclusão e acessibilidade digital** 
+
+

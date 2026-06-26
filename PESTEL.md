@@ -78,13 +78,21 @@ ambientes se torna um problema grave.
 
 # L (legal)
 
- * **Seguimento as diretrizes da LGPD (Lei Geral de Proteção de Dados)**
+ * **Seguimento as diretrizes da LGPD (Lei Geral de Proteção de Dados):**
  
 A Affilimetrics utilizará de rastreamento, remarketing e centralização de métricas de venda, que são dados que possuem informações sensíveis do consumidor. A LGPD
 estabele regras rígidas e claras de como esses dados devem ser coletados, armazenados e tratados.
 
 O sistema precisa ser construído baseado nas diretrizes da lei, de modo que seja transparente ao consumidor quais dados serão coletados, e que o armazenamento de dados sensíveis seja criptografado de forma irreversível. 
  
-* **Conformidade com a Lei Brasileira de inclusão e acessibilidade digital** 
+* **Inclusão e acessibilidade digital:**
 
+O sistema utiliza de diversos gráficos e painéis visuais, portanto o projeto deve estar alinhado com as diretrizes da Lei Brasileira de inclusão da pessoa com deficiência (LBI), que estabelece a obrigatoriedade de acessibilidade a sistemas da internet mantido com sede no país.
 
+O projeto deve atender a todos os requisitos estabelcidos por essa lei, de modo que os gráficos não dependam apenas de cores para sua vizualização, terá de conter contrastes adequados e legendas textuais descritivas de modo opcional para o cliente.
+
+* **Direito do consumidor e trânsparencia na publicidade:**
+
+O mercado de afiliado é cercado pelo Código de defesa do consumidor (CDC) e pelas diretrizes do Conselho Nacional De Autorregulamentação Publicitária (CONAR), que exigem clareza nas relações comerciais e proíbem a propaganda enganosa.
+
+A Affilimetrics fornece modelos para a divulgação dos anúncios, seguindo as diretrizes da CONAR, os mesmos possuem uma ligação direta a empresa, portanto, toda e qualquer divulgação feito pelos nossos usuários, impactará a companhia, desse modo, terá de ser claro a punição sem aviso prévio, caso seja detectado o uso indevido da plataforma.
